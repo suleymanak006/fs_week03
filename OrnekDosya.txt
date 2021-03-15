@@ -1,0 +1,3 @@
+Merhaba Arkadaslar;
+Bugun size suanda nodejs uzerinden bir dosyayi okuma calismasi yapacagiz,
+Bu metni nodejs uxerinde yapacagimiz islem ile okuyabilecegiz.
